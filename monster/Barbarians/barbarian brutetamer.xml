@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 	<monster name="Barbarian Brutetamer" nameDescription="a barbarian brutetamer" race="blood" experience="90" speed="270" manacost="0">
 	<health now="145" max="145"/>
-	<look type="264" head="78" body="116" legs="95" feet="121" corpse="20339"/>
+	<look type="264" head="78" body="116" legs="95" feet="121" corpse="6081"/>
 	<targetchange interval="60000" chance="0"/>
 	<strategy attack="100" defense="0"/>
 	<flags>
@@ -35,17 +35,17 @@
 	</defenses>
 	<elements>
 		<element icePercent="50"/>
-		<element holyPercent="10"/>
+		<element holyPercent="20"/>
 		<element energyPercent="20"/>
-		<element physicalPercent="-20"/>
-		<element deathPercent="-10"/>
+		<element earthPercent="-13"/>
+		<element physicalPercent="-10"/>
+		<element deathPercent="-7"/>
 	</elements>
 	<immunities>
 		<immunity lifedrain="1"/>
 		<immunity paralyze="1"/>
 		<immunity outfit="1"/>
 		<immunity invisible="1"/>
-		<immunity drunk="1"/>
 	</immunities>
 	<summons maxSummons="3">
 		<summon name="War Wolf" interval="2000" chance="40"/>

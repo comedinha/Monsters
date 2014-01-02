@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 	<monster name="Barbarian Headsplitter" nameDescription="a barbarian headsplitter" race="blood" experience="85" speed="270" manacost="450">
 	<health now="100" max="100"/>
-	<look type="253" head="115" body="105" legs="119" feet="132" corpse="20343"/>
+	<look type="253" head="115" body="105" legs="119" feet="132" corpse="6080"/>
 	<targetchange interval="60000" chance="0"/>
 	<strategy attack="100" defense="0"/>
 	<flags>
@@ -27,14 +27,13 @@
 	<defenses armor="30" defense="30"/>
 	<elements>
 		<element icePercent="50"/>
-		<element holyPercent="10"/>
+		<element holyPercent="20"/>
 		<element energyPercent="20"/>
-		<element earthPercent="-10"/>
-		<element deathPercent="-10"/>
+		<element earthPercent="-13"/>
+		<element deathPercent="-7"/>
 	</elements>
 	<immunities>
 		<immunity paralyze="1"/>
-		<immunity drunk="1"/>
 	</immunities>
 	<voices interval="2000" chance="5">
 		<voice sentence="I will regain my honor with your blood!"/>
