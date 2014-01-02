@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Shaburak Demon" nameDescription="a shaburak demon" race="fire" experience="900" speed="280" manacost="0">
-	<health now="1500" max="1500"/>
+	<health now="1500 " max="1500 "/>
 	<look type="418" corpse="13969"/>
 	<targetchange interval="2000" chance="9"/>
 	<strategy attack="100" defense="0"/>
@@ -18,7 +18,7 @@
 		<flag runonhealth="0"/>
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" skill="40" attack="100"/>
+		<attack name="melee" interval="2000" skill="40" attack="200"/>
 		<attack name="Paralyze" interval="2000" chance="10" range="7" min="-0" max="-120"/>
 		<attack name="fire" interval="2000" chance="10"  range="7" radius="7" target="1" min="-75" max="-140">
 			<attribute key="shootEffect" value="fire"/>
