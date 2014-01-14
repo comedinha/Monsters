@@ -22,7 +22,7 @@
 	</attacks>
 	<defenses armor="8" defense="8"/>
 	<elements>
-		<element firePercent="-4"/>
+		<element firePercent="-10"/>
 	</elements>
 	<immunities>
 		<immunity earth="1"/>
@@ -32,8 +32,8 @@
 		<voice sentence="Groar"/>
 	</voices>
 	<loot>
-		<item id="2666" countmax="4" chance="17500"/><!-- meat -->
-		<item id="2671" countmax="2" chance="20000"/><!-- ham -->
-		<item id="12401" chance="7000"/><!-- bamboo stick -->
+		<item id="2666" countmax="4" chance="50000"/><!-- meat -->
+		<item id="2671" countmax="2" chance="33333"/><!-- ham -->
+		<item id="12401" chance="9090"/><!-- bamboo stick -->
 	</loot>
 </monster>

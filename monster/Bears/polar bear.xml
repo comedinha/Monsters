@@ -23,17 +23,16 @@
 	<defenses armor="7" defense="10"/>
 	<elements>
 		<element icePercent="20"/>
-		<element firePercent="7"/>
+		<element firePercent="1"/>
+		<element energyPercent="-1"/>
 		<element deathPercent="-10"/>
-		<element energyPercent="-3"/>
 	</elements>
 	<voices interval="5000" chance="10">
-		<voice sentence="Grrrrrr"/>
 		<voice sentence="GROARRR!" yell="1"/>
 	</voices>
 	<loot>
-		<item id="2671" countmax="2" chance="24000"/><!-- ham -->
-		<item id="2666" countmax="4" chance="19750"/><!-- meat -->
-		<item id="10567" chance="1825"/> <!-- polar bear paw -->
+		<item id="2666" countmax="4" chance="50000"/><!-- meat -->
+		<item id="2671" countmax="2" chance="50000"/><!-- ham -->
+		<item id="10567" chance="900"/> <!-- polar bear paw -->
 	</loot>
 </monster>
