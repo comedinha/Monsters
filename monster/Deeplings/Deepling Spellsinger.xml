@@ -18,14 +18,14 @@
 		<flag runonhealth="60"/>
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" skill="60" attack="100"/>
+		<attack name="melee" interval="2000" skill="80" attack="120"/>
 		<attack name="speed" interval="1000" chance="17" range="7" radius="4" target="1" speedchange="-600" duration="1500">
 		</attack>
-		<attack name="ice" interval="2000" chance="21" length="8" spread="3" target="0" min="-100" max="-350">
+		<attack name="ice" interval="2000" chance="21" range="6" radius="2" target="1" min="-130" max="-350">
 			<attribute key="shootEffect" value="smallice"/>
-			<attribute key="areaEffect" value="icearea"/>
+			<attribute key="areaEffect" value="giantice"/>
 		</attack>
-		<attack name="manadrain" interval="2000" chance="15" range="7" min="-60" max="-140"> 
+		<attack name="manadrain" interval="2000" chance="15" range="7" min="-60" max="-120"> 
 			<attribute key="shootEffect" value="earth"/>
 			<attribute key="areaeffect" value="carniphila"/>	
 		</attack>
@@ -33,7 +33,6 @@
 	<defenses armor="75" defense="75">    
 	</defenses>
 	<immunities>
-			<immunity invisible="1"/>
 		<immunity ice="1" />
 		<immunity drown="1" />
 		<immunity fire="1" />

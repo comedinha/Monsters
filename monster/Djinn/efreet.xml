@@ -80,8 +80,6 @@
 		<item id="2187" chance="900"/><!-- wand of inferno -->
 		<item id="2663" chance="750"/><!-- mystic turban -->
 		<item id="7900" chance="100"/><!-- magma monocle -->
-		<item id="12426" chance="100"/><!-- Jewelled belt -->
-		<item id="12442" chance="100"/><!-- noble turban -->
 		<item id="7589" chance="3500"/><!-- strong mana potion -->
 		<item id="2155" chance="200"/><!-- green gem -->
 	</loot>

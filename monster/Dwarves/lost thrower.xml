@@ -41,9 +41,9 @@
 		<element firePercent="10"/>
 	</elements>
 	<immunities>
-		<immunity earth="100"/>
-		<immunity paralyze="100"/>
-		<immunity invisible="100"/>
+		<immunity earth="1"/>
+		<immunity paralyze="1"/>
+		<immunity invisible="1"/>
 	</immunities>
 	<voices interval="2500" chance="10">
 		<voice sentence="Yagga! Yagga!"/>
@@ -54,14 +54,18 @@
 		<item id="2148" countmax="100" chance="30000"/> <!-- Gold Coin -->
 		<item id="2152" countmax="2" chance="30000"/> <!-- Platinum Coin -->
 		<item id="2789" countmax="2" chance="3000"/> <!-- Brown Mushroom -->
+		<item id="20135" chance="880"/> <!-- Basalt Fetish -->
+		<item id="7591" chance="450"/> <!-- GHP -->
+		<item id="7590" chance="410"/> <!-- GMP -->
 		<item id="20133" chance="300"/> <!-- Mad Froth -->
 		<item id="20132" chance="300"/> <!-- Lost Bracers -->
 		<item id="20136" chance="450"/> <!-- Basalt Figurine -->
 		<item id="20131" chance="210"/> <!-- Helmet of The Lost -->
 		<item id="20130" chance="300"/> <!-- Broken Throwing Axe -->
+		<item id="13757" chance="410"/> <!-- Coal -->
 		<item id="20106" chance="300"/> <!-- Bloody Dwarven Beard -->
 		<item id="20134" chance="410"/> <!-- Red Hair Dye -->
 		<item id="5880" chance="410"/> <!-- Iron Ore -->
-		<item id="20109" chance="410"/> <!-- buckle -->
+		<item id="20108" chance="210"/> <!-- Buckle -->
 	</loot>
 </monster>

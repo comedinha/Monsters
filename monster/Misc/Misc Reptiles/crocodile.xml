@@ -30,8 +30,10 @@
 	</elements>
 	<loot>
 		<item id="2148" countmax="15" chance="17500"/><!-- gold coin -->
+		<item id="2467" chance="7450"/><!-- leather helmet -->
 		<item id="2671" countmax="2" chance="15000"/><!-- ham -->
+		<item id="2666" countmax="4" chance="20000"/><!-- meat -->
+		<item id="2649" chance="8250"/><!-- leather legs-->
 		<item id="3982" chance="400"/><!-- crocodile boots -->
-		<item id="11196" countmax="2" chance="5000"/><!-- Piece of Crocodile Leather -->
 	</loot>
 </monster>

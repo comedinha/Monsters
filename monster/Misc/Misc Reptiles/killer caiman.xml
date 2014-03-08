@@ -43,6 +43,5 @@
 		<item id="11245" countmax="2" chance="4300" /><!-- bunch of ripe rice -->
 		<item id="2149" chance="1375" /><!-- small emerald -->
 		<item id="3982" chance="600" /><!-- crocodile boots -->
-		<item id="2425" chance="975" /><!-- obsidian lance -->
 	</loot>
 </monster>

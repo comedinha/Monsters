@@ -31,6 +31,7 @@
 		<item id="2148" countmax="30" chance="28500"/><!-- gold coin -->
 		<item id="5678" countmax="3" chance="1000"/><!-- tortoise egg -->
 		<item id="2667" chance="9000"/><!-- fish -->
+		<item id="2671" countmax="2" chance="4500"/><!-- ham -->
 		<item id="7618" chance="2500"/><!-- health potion -->
 		<item id="2789" chance="1000"/><!-- brown mushroom -->
 		<item id="2787" chance="1000"/><!-- white mushroom -->

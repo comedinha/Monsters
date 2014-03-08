@@ -30,12 +30,12 @@
 		</defense>
 	</defenses>
 	<elements>
-		<element earthPercent="100"/>
 		<element energyPercent="10"/>
 		<element firePercent="-15"/>
 		<element icePercent="-10"/>
 	</elements>
 	<immunities>
+		<immunity earth="1"/>
 		<immunity outfit="1"/>
 		<immunity drunk="1"/>
 	</immunities>
@@ -46,6 +46,5 @@
 		<item id="2510" chance="2000"/><!-- plate shield -->
 		<item id="2457" chance="943"/><!-- steel helmet -->
 		<item id="2169" chance="121"/><!-- time ring -->
-		<item id="8859" chance="4820"/><!-- spider fangs -->
 	</loot>
 </monster>

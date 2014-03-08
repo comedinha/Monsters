@@ -26,6 +26,5 @@
 	</voices>
 	<loot>
 		<item id="2666" countmax="4" chance="22500"/><!-- meat -->
-		<item id="12404" countmax="1" chance="22500"/><!-- black wool -->
 	</loot>
 </monster>

@@ -42,9 +42,9 @@
 		<element holyPercent="-10"/>
 	</elements>
 	<immunities>
-		<immunity earth="100"/>
-		<immunity paralyze="100"/>
-		<immunity invisible="100"/>
+		<immunity earth="1"/>
+		<immunity paralyze="1"/>
+		<immunity invisible="1"/>
 	</immunities>
 	<voices interval="2500" chance="10">
 		<voice sentence="Arr far zwar!"/>
@@ -74,10 +74,5 @@
 		<item id="7750" chance="250"/> <!-- Knight Axe -->
 		<item id="7452" chance="410"/> <!-- Spiked Squelcher -->
 		<item id="2528" chance="300"/> <!-- Tower Shield -->
-		<item id="20109" chance="410"/> <!-- buckle -->
-		<item id="2436" chance="410"/> <!-- Skull Staff -->
-		<item id="7886" chance="410"/> <!-- terra boots -->
-		<item id="2432" chance="410"/> <!-- fire axe -->
-		<item id="7885" chance="410"/> <!-- terra legs -->
 	</loot>
 </monster>

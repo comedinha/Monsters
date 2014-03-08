@@ -57,7 +57,7 @@
 		<item id="2148" countmax="100" chance="25000"/><!-- gold coin -->
 		<item id="2148" countmax="100" chance="25000"/><!-- gold coin -->
 		<item id="2148" countmax="75" chance="25000"/><!-- gold coin -->
-		<item id="2152" countmax="7" chance="5000"/><!-- platinum coin -->
+		<item id="2152" countmax="5" chance="5000"/><!-- platinum coin -->
 		<item id="2671" countmax="6" chance="22500"/><!-- ham -->
 		<item id="2410" countmax="11" chance="9000"/><!-- throwing knife -->
 		<item id="2144" countmax="4" chance="7000"/><!-- black pearl -->
@@ -72,9 +72,5 @@
 		<item id="2430" chance="3000"/><!-- knight axe -->
 		<item id="2383" chance="275000"/><!-- spike sword -->
 		<item id="6553" chance="400"/><!-- ruthless axe -->
-		<item id="10554" chance="14000"/><!-- hellhound slobber -->
-		<item id="7894" chance="230"/><!-- magma legs -->
-		<item id="2392" chance="4800"/><!-- fire sword -->	
-		<item id="4873" chance="130"/><!-- explorer brooch -->		
 	</loot>
 </monster>

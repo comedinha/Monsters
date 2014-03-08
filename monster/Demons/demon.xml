@@ -32,7 +32,7 @@
 		</attack>
 	</attacks>
 	<defenses armor="50" defense="55">
-		<defense name="healing" interval="5000" chance="15" min="90" max="200">
+		<defense name="healing" interval="1000" chance="15" min="90" max="200">
 			<attribute key="areaEffect" value="blueshimmer"/>
 		</defense>
 		<defense name="speed" interval="1000" chance="15" speedchange="200" duration="20000">

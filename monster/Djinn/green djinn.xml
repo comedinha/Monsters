@@ -67,6 +67,5 @@
 		<item id="7620" chance="1200"/><!-- mana potion -->
 		<item id="5910" chance="2000"/><!-- green piece of cloth -->
 		<item id="2663" chance="350"/><!-- mystic turban -->
-		<item id="12412" chance="350"/><!-- dirty turban -->
 	</loot>
 </monster>

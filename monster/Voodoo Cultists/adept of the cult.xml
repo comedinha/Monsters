@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Adept of the Cult" nameDescription="an adept of the cult" race="blood" experience="400" speed="210" manacost="0">
 	<health now="430" max="430"/>
-	<look type="194" head="114" body="94" legs="94" feet="57" corpse="6080"/>
+	<look type="194" head="114" body="94" legs="94" feet="57" corpse="20314"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
 	<flags>
@@ -61,11 +61,8 @@
 				<item id="2183" chance="750"/><!-- hailstorm rod -->
 				<item id="7426" chance="800"/><!-- amber staff -->
 				<item id="2655" chance="500"/><!-- red robe -->
+				<item id="5801" chance="100"/><!-- key ring -->
 				<item id="7424" chance="50"/><!-- lunar staff -->
-				<item id="12448" chance="250"/><!-- rope belt -->
-				<item id="10556" chance="250"/><!-- cultish robe -->
-				<item id="12608" chance="500"/><!-- broken key ring -->
-				<item id="12411" chance="500"/><!-- cultish symbol -->
 			</inside>
 		</item>
 	</loot>

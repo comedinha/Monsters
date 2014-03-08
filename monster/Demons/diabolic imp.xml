@@ -73,6 +73,5 @@
 		<item id="6300" chance="487"/><!-- death ring -->
 		<item id="7899" chance="487"/><!-- magma coat-->
 		<item id="7900" chance="243"/><!-- magma monocle -->
-		<item id="2185" chance="400"/><!-- necrotic rod -->
 	</loot>
 </monster>

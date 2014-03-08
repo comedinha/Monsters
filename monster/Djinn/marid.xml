@@ -83,8 +83,6 @@
 		<item id="7732" chance="100"/><!-- seeds -->
 		<item id="2183" chance="900"/><!-- hailstorm rod -->
 		<item id="2663" chance="750"/><!-- mystic turban -->
-		<item id="12442" chance="750"/><!-- Noble turban -->
-		<item id="12426" chance="750"/><!-- Jewelled Belt -->
 	 	<item id="7900" chance="100"/><!-- magma monocle -->
 		<item id="2158" chance="200"/><!-- blue gem -->
 	</loot>

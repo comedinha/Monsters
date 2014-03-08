@@ -76,6 +76,5 @@
 			<item id="2187" chance="564" /><!-- wand of inferno -->
 			<item id="7894" chance="155" /><!-- magma legs -->
 			<item id="5904" chance="81" /><!-- magic sulphur -->
-			<item id="13530" chance="61" /><!-- demonic finger -->
         </loot>
 </monster>

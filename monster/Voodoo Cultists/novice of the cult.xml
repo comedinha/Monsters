@@ -50,7 +50,7 @@
 		<voice sentence="Your curiosity will be punished!"/>
 	</voices>
 	<loot>
-		<item id="2148" countmax="40" chance="16500"/><!-- gold coin -->
+		<item id="2148" countmax="30" chance="16500"/><!-- gold coin -->
 		<item id="2398" chance="6000"/><!-- mace -->
 		<item id="2661" chance="3250"/><!-- scarf -->
 		<item id="2190" chance="600"/><!-- wand of vortex -->
@@ -60,7 +60,5 @@
 		<item id="6087" chance="500"/><!-- music sheet 1st verse -->
 		<item id="2145" chance="350"/><!-- small diamond -->
 		<item id="2199" chance="250"/><!-- garlic necklace -->
-		<item id="12448" chance="250"/><!-- rope belt -->
-		<item id="10556" chance="250"/><!-- cultish robe -->
 	</loot>
 </monster>

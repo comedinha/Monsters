@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Diamond Servant" nameDescription="a diamond servant" race="energy" experience="700" speed="340" manacost="0">
 	<health now="1000" max="1000"/>
-	<look type="397" corpse="13485"/>
+	<look type="397" corpse="13484"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
 	<flags>

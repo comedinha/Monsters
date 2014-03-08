@@ -30,12 +30,12 @@
   <defenses armor="85" defense="85">
   </defenses>
 	<elements>
-		<element firePercent="1"/>
-		<element physicalPercent="1"/>
-		<element earthPercent="1"/>
-				<element holyPercent="1"/>
+		<element firePercent="100"/>
+		<element physicalPercent="100"/>
+		<element earthPercent="100"/>
+				<element holyPercent="100"/>
 		<element deathPercent="-1"/>
-		<element energyPercent="1"/>
+		<element energyPercent="100"/>
 	</elements>
 	<immunities>
 		<immunity outfit="1"/>
@@ -47,18 +47,6 @@
 		<voice sentence="Moooaaan!"/>
 	</voices>  
   <loot>
-		<item id="2148" countmax="100" chance="61000"/><!-- gold coin -->
-		<item id="2148" countmax="100" chance="61000"/><!-- gold coin -->
-		<item id="2172" countmax="7" chance="30000"/>  <!-- platinum coin -->
-		<item id="18425" chance="14890"/><!-- blazing bones -->
-		<item id="18426" chance="15870"/><!-- eye of a weeper -->
-		<item id="10553" chance="13570"/><!-- fiery hearts -->
-		<item id="18424" chance="13240"/><!-- magma clumps -->
-		<item id="18435" chance="10900"/><!-- prismatic bolt -->
-		<item id="7590" chance="15180"/><!-- GMP -->
-		<item id="8473" chance="15440"/><!-- UHP -->
-		<item id="18417" chance="11300"/><!-- brown crystal plinter -->
-		<item id="2147" chance="15690"/><!-- small ruby -->
-		<item id="18409" chance="1680"/><!-- wand of everblazing -->
+ 	 <item id="2148" countmax="172" chance="30000"/>  
 	</loot>
 </monster>

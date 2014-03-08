@@ -49,34 +49,6 @@
 		<voice sentence="CLONK!"/>
 	</voices>     
   <loot>
-		<item id="2148" countmax="100" chance="61000"/><!-- gold coin -->
-		<item id="2148" countmax="100" chance="61000"/><!-- gold coin -->
-		<item id="2152" countmax="7" chance="30000"/>  <!-- platinum coin -->
-		<item id="9970" countmax="3" chance="16500"/>  <!-- small topaz -->
-		<item id="18435" countmax="5" chance="15500"/>  <!-- prismatic bolt -->
-		<item id="18418" countmax="2" chance="16000"/>  <!-- blue crystal splinter -->
-		<item id="7589" countmax="2" chance="14000"/>  <!-- smp -->
-		<item id="7590" countmax="2" chance="14000"/>  <!-- gmp -->
-		<item id="7620" countmax="4" chance="14000"/>  <!-- mp -->
-		<item id="7588" countmax="2" chance="15600"/>  <!-- shp -->
-		<item id="8473" countmax="2" chance="9500"/>  <!-- uhp -->
-		<item id="18419" chance="13000"/><!-- cyan crystal fragment -->
-		<item id="11232" chance="20000"/><!-- sulphurous stone -->
-		<item id="18427" chance="19500"/><!-- pulverized ore -->
-		<item id="5880" chance="15000"/><!-- iron ore -->
-		<item id="18429" chance="15000"/><!-- vein of ore -->
-		<item id="11227" chance="13700"/><!-- shiny stone -->
-		<item id="18415" chance="8000"/><!-- green crystal shard -->
-		<item id="2213" chance="4660"/><!-- dwarven ring -->
-		<item id="5904" chance="3000"/><!-- magic sulphur -->
-		<item id="7413" chance="2600"/><!-- titan axe -->
-		<item id="7454" chance="1870"/><!-- glorious axe -->
-		<item id="2477" chance="1210"/><!-- knight legs -->
-		<item id="2154" chance="1030"/><!-- yellow gem -->
-		<item id="18390" chance="930"/><!-- wand of defiance -->
-		<item id="2491" chance="750"/><!-- crown helmet -->
-		<item id="8878" chance="560"/><!-- crystalline armor -->
-		<item id="2487" chance="370"/><!-- crown armor -->
-		<item id="18453" chance="280"/><!-- crystal crossbow -->
-	</loot>
+ 	 <item id="2148" countmax="182" chance="30000"/>  
+</loot>
 </monster>

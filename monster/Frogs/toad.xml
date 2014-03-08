@@ -42,6 +42,5 @@
 		<item id="10557" chance="4761"/><!-- poisonous slime -->
 		<item id="2398" chance="2854"/><!-- mace -->
 		<item id="2391" chance="198"/><!-- war hammer -->
-		<item id="2666" countmax="2" chance="5000"/><!-- meat -->
 	</loot>
 </monster>

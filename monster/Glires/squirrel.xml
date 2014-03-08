@@ -25,7 +25,6 @@
 	</voices>
 	<loot>
 		<item id="7909" chance="2000"/><!-- walnut -->
-		<item id="11213" chance="2000"/><!-- acorn -->
 		<item id="7910" chance="2500"/><!-- peanut -->
 	</loot>
 </monster>

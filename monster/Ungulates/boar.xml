@@ -26,6 +26,6 @@
 	</voices>
 	<loot>
 		<item id="2148" countmax="27" chance="20000"/><!-- gold -->
-		<item id="13297" countmax="1" chance="15000"/><!-- Haunch of Boar -->
+		<item id="2666" countmax="4" chance="15000"/><!-- meat -->
 	</loot>
 </monster>
