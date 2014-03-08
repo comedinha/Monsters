@@ -51,7 +51,7 @@
 		<item id="2675" countmax="5" chance="11500"/><!-- orange -->
 		<item id="1294" countmax="3" chance="28750"/><!-- small stone -->
 		<item id="2682" chance="10750"/><!-- melon -->
-		<item id="2458" chance="4600"/><!-- chain helmet -->
+		<item id="12467" chance="5000"/><!-- banana sash -->
 		<item id="5883" chance="1650"/><!-- ape fur -->
 	</loot>
 </monster>

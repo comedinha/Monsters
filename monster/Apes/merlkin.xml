@@ -63,5 +63,6 @@
 		<item id="2150" chance="750"/><!-- small amethyst -->
 		<item id="5883" chance="1500"/><!-- ape fur -->
 		<item id="3966" chance="400"/><!-- banana staff -->
+		<item id="12467" chance="1500"/><!-- banana sash -->
 	</loot>
 </monster>

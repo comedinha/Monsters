@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Draken Elite" nameDescription="a draken elite" race="blood" experience="4200" speed="160" manacost="0">
+<monster name="Draken Elite" nameDescription="a draken elite" race="blood" experience="4200" speed="260" manacost="0">
 <health now="5550" max="5550"/>
 <look type="362" corpse="12609"/>
 <targetchange interval="5000" chance="10"/>
@@ -14,7 +14,7 @@
 		<flag canpushitems="1"/>
 		<flag canpushcreatures="0"/>
 		<flag targetdistance="1"/>
-		<flag staticattack="95"/>
+		<flag staticattack="90"/>
 		<flag runonhealth="0"/>
 	</flags>
 	<attacks>
@@ -55,28 +55,30 @@
 		<voice sentence="For ze emperor!"/>
 	</voices>
 	<loot>
-		<item id="2148" countmax="100" chance="96970" /> <!-- Gold Coin -->
-		<item id="2148" countmax="100" chance="100000" /> <!-- Gold Coin -->
-		<item id="2152" countmax="8" chance="49990" /> <!-- Platinum Coin -->
-		<item id="2666" chance="29830" /> <!-- Meat -->
-		<item id="12617" chance="24610" /> <!-- Broken Slicer -->
-		<item id="12616" chance="17030" /> <!-- Broken Draken Mail -->
-		<item id="12615" chance="14510" /> <!-- Draken Wristbands -->
-		<item id="7590" countmax="3" chance="9440" /> <!-- Great Mana Potion -->
-		<item id="8473" countmax="3" chance="8990" /> <!-- Ultimate Health Potion -->
-		<item id="12614" chance="7630" /> <!-- Draken Sulphur -->
-		<item id="2145" countmax="4" chance="2480" /> <!-- Small Diamond -->
-		<item id="5904" chance="2070" /> <!-- Magic Sulphur -->
-		<item id="7404" chance="1000" /> <!-- Assassin Dagger -->
-		<item id="12613" chance="940" /> <!-- Twiceslicer -->
-		<item id="11304" chance="820" /> <!-- Zaoan Legs -->
-		<item id="12646" chance="540" /> <!-- Draken Boots -->
-		<item id="11301" chance="520" /> <!-- Zaoan Armor -->
-		<item id="11307" chance="410" /> <!-- Zaoan Sword -->
-		<item id="11302" chance="150" /> <!-- Zaoan Helmet -->
-		<item id="12607" chance="110" /> <!-- Elite Draken Mail -->
-		<item id="12647" chance="80" /> <!-- Snake God's Wristguard -->
-		<item id="12649" chance="10" /> <!-- Blade of Corruption -->
-		<item id="12630" chance="10" /> <!-- Cobra Crown -->
+		<item id="2148" countmax="100" chance="40625" /><!-- gold coin -->
+		<item id="2148" countmax="100" chance="40625" /><!-- gold coin -->
+		<item id="12617" chance="22300" /><!-- broken slicer -->
+		<item id="2666" chance="30175" /><!-- meat -->
+		<item id="2152" countmax="8" chance="28275" /><!-- platinum coin -->
+		<item id="7590" countmax="3" chance="6600" /><!-- great mana potion -->
+		<item id="2145" countmax="4" chance="1800" /><!-- small diamond -->
+		<item id="12615" chance="9250" /><!-- draken wristbands -->
+		<item id="12616" chance="18025" /><!-- broken draken mail -->
+		<item id="8473" countmax="3" chance="6350" /><!-- ultimate health potion -->
+		<item id="12614" chance="8400" /><!-- draken sulphur -->
+		<item id="12613" chance="1250" /><!-- twiceslicer -->
+		<item id="5904" chance="250" /><!-- magic sulphur -->
+		<item id="7404" chance="800" /><!-- assassin dagger -->
+		<item id="11307" chance="1025" /><!-- zaoan sword -->
+		<item id="12646" chance="735" /><!-- draken boots -->
+		<item id="12649" chance="200" /><!-- blade of corruption -->
+		<item id="12630" chance="200" /><!-- cobra crown -->
+		<item id="11302" chance="1050"/> <!-- zaoan helmet -->
+		<item id="11304" chance="2625"/> <!-- zaoan legs -->
+		<item id="11301" chance="1050"/> <!-- zaoan armor -->
+		<item id="12647" chance="1025" /><!-- snake god's wristguard -->
+		<item id="12607" chance="1025" /><!-- elite draken mail -->
+		
+		
 	</loot>
 </monster>
