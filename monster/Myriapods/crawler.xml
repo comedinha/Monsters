@@ -49,6 +49,6 @@
 		<item id="2391" chance="2380"/><!-- war hammer -->
 		<item id="8912" chance="714"/><!-- springsprout rod -->
 		<item id="2154" chance="645"/><!-- yellow gem -->
-		<item id="15490" chance="194"/><!-- grasshopper legs -->
+		<item id="15490" chance="120"/><!-- grasshopper legs -->
 	</loot>
 </monster>

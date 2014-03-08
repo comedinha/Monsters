@@ -78,6 +78,5 @@
 		<item id="2487" chance="500"/><!-- crown armor -->
 		<item id="5944" chance="7368"/><!-- assassin star -->
 		<item id="2124" chance="750"/><!-- crystal ring-->
-		<item id="2156" chance="900"/><!-- red gem -->
 	</loot>
 </monster>

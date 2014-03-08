@@ -1,45 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Deepling Guard" nameDescription="a deepling guard" race="blood" experience="2100" speed="560" manacost="0">
+<monster name="Deepling Guard" nameDescription="a deepling guard" race="blood" experience="2100" speed="210" manacost="390">
 	<health now="1900" max="1900"/>
-	<look type="442" corpse="15188"/>
+	<look type="442" corpse="15208"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
 	<flags>
-		<flag summonable="0"/>
+		<flag summonable="1"/>
 		<flag attackable="1"/>
 		<flag hostile="1"/>
 		<flag illusionable="1"/>
-		<flag convinceable="0"/>
-		<flag pushable="1"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
 		<flag canpushitems="1"/>
-		<flag canpushcreatures="1"/>
-		<flag targetdistance="0"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
 		<flag staticattack="90"/>
-		<flag runonhealth="60"/>
+		<flag runonhealth="10"/>
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" skill="100" attack="100"/>
-		<attack name="physical" interval="1000" chance="20" range="7" min="-150" max="-295">
-			<attribute key="shootEffect" value="whirlwindaxe"/>
-		</attack>
-		<attack name="physical" interval="2000" chance="100" range="7" min="-220" max="-350">
-			<attribute key="shootEffect" value="whirlwindsword"/>		
+		<attack name="melee" interval="2000" skill="20" attack="400"/>
+		<attack name="physical" interval="1000" chance="10" range="7" min="-1" max="-200">
+			<attribute key="shootEffect" value="throwingknife"/>
 		</attack>
 	</attacks>
-	<defenses armor="85" defense="85">
-	</defenses>
-	<immunities>
-		<immunity ice="1" />
-		<immunity fire="1" />
-	</immunities>
-	<voices interval="3000" chance="200">
-		<voice sentence="Qjell afar gou jey!"/>
+	<defenses armor="11" defense="11"/>
+	<elements>
+		<element physicalPercent="-8"/>
+		<element deathPercent="-7"/>
+	</elements>
+	<voices interval="5000" chance="10">
 		<voice sentence="QJELL NETA NA!!"/>
 	</voices>
-	<elements>
-		<element earthPercent="-20"/>
-		<element energyPercent="-20"/>
-	</elements>
 	<loot>
 		<item id="2148" countmax="90" chance="100000"/> <!-- gold coin -->
 		<item id="2148" countmax="90" chance="100000"/> <!-- gold coin -->
@@ -56,5 +47,6 @@
 		<item id="15647" chance="751"/> <!-- deepling squelcher -->
 		<item id="15644" chance="362"/> <!-- ornate crossbow -->
 		<item id="15645" chance="333"/> <!-- deepling backpack -->
+		<item id="15545" chance="25"/> <!-- foxtail -->
 	</loot>
 </monster>

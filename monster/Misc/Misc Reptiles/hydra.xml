@@ -31,7 +31,7 @@
 		</attack>
 	</attacks>
 	<defenses armor="25" defense="35">
-		<defense name="healing" interval="1000" chance="25" min="200" max="400">
+		<defense name="healing" interval="5000" chance="45" min="200" max="400">
 			<attribute key="areaEffect" value="blueshimmer"/>
 		</defense>
 	</defenses>
@@ -68,5 +68,6 @@
 		<item id="2536" chance="200"/><!-- medusa shield -->
 		<item id="2498" chance="200"/><!-- royal helmet -->
 		<item id="2195" chance="120"/><!-- boots of haste -->
+		<item id="11199" chance="900"/><!-- hydra head -->
 	</loot>
 </monster>

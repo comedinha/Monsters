@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Lady Bug" nameDescription="a lady bug" race="blood" experience="70" speed="560" manacost="0">
+<monster name="Lady Bug" nameDescription="a lady bug" race="blood" experience="70" speed="180" manacost="0">
 	<health now="255" max="255"/>
 	<look type="448" corpse="15272"/>
 	<targetchange interval="2000" chance="50"/>

@@ -76,5 +76,7 @@
 		<item id="9971" chance="495"/><!-- gold ingot -->
 		<item id="2436" chance="247"/><!-- skull staff -->
 		<item id="2153" chance="247"/><!-- violet gem -->
+		<item id="5799" chance="195"/><!-- golden figurine -->
+		<item id="5669" chance="247"/><!-- mysterious voodoo skull -->
 	</loot>
 </monster>

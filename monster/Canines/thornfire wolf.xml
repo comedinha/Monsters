@@ -46,7 +46,9 @@
 		<immunity paralyze="1"/>
 	</immunities>
 	<loot>
-		<item id="2148" countmax="70" chance="34000"/><!-- gold coin -->
-		<item id="2148" countmax="61" chance="34000"/><!-- gold coin -->
+		<item id="2148" countmax="53" chance="34000"/><!-- gold coin -->
+		<item id="2666" countmax="1" chance="34000"/><!-- meat -->
+		<item id="7840" countmax="4" chance="15000"/><!-- flaming arrow -->
+		<item id="5897" chance="7000"/><!-- wolf paw -->
 	</loot>
 </monster>

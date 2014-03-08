@@ -83,5 +83,6 @@
 		<item id="2158" chance="476"/><!-- blue gem -->
 		<item id="2487" chance="317"/><!-- crown armor -->
 		<item id="2645" chance="158"/><!-- steel boots -->
+		<item id="2444" chance="158"/><!-- Hammer of Wrath -->
 	</loot>
 </monster>

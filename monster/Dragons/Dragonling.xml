@@ -44,8 +44,9 @@
 		<voice sentence="FI?"/>
 	</voices>     
   <loot>
- 	 <item id="2148" countmax="135" chance="30000"/>  
-        <item id="7589" chance="2000"/>             
-        <item id="7588" chance="2000"/>     		
+		<item id="2148" countmax="50" chance="37500"/><!-- gold coin -->
+        <item id="7589" chance="2000"/><!-- smp-->      
+        <item id="7588" chance="2000"/><!-- shp -->
+		<item id="18425" chance="750"/><!-- Blazing Bones --> 	
 </loot>
 </monster>

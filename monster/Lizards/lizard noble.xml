@@ -55,20 +55,10 @@
 	</voices>
 	<loot>
     <item id="2148" countmax="53" chance="33600" /><!-- gold coin -->
-    <item id="2817" chance="33300" /><!-- dead snake -->
-    <item id="2654" chance="12475" /><!-- cape -->
-    <item id="2177" chance="1200" /><!-- life crystal -->
-    <item id="5881" chance="1200" /><!-- lizard scale -->
-    <item id="2181" chance="1775" /><!-- terra rod -->
-    <item id="2150" chance="1075" /><!-- small amethyst -->
-    <item id="1987" chance="100000"><!-- bag -->
-        <inside>
-            <item id="5876" chance="2200" /><!-- lizard leather -->
-            <item id="2168" chance="800" /><!-- life ring -->
-            <item id="3971" chance="650" /><!-- charmer's tiara -->
-            <item id="7620" chance="275" /><!-- mana potion -->
-            <item id="2182" chance="650" /><!-- snakebite rod -->
-        </inside>
-    </item>
+    <item id="2152" countmax="20" chance="33300" /><!-- platinum coin -->
+	<item id="7588" chance="2550" /><!-- strong health potion -->
+	<item id="2147" countmax="5" chance="1425" /><!-- small ruby -->
+    <item id="7591" chance="12475" /><!-- GHP -->
+    <item id="5876" chance="2200" /><!-- lizard leather -->
 </loot>
 </monster>

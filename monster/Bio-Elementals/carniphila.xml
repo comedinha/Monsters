@@ -49,6 +49,6 @@
 		<item id="2686" chance="775"/><!-- corncob -->
 		<item id="7732" chance="490"/><!-- seeds -->
 		<item id="2802" chance="446"/><!-- sling herb -->
-		<item id="13298" chance="143"/><!-- carrot on a stick -->
+		<item id="13298" chance="100"/><!-- carrot on a stick -->
 	</loot>
 </monster>

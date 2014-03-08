@@ -39,26 +39,30 @@
 	</immunities>
 	<loot>
 		<item id="2148" countmax="99" chance="30000"/> <!-- Gold Coins -->
-		<item id="2152" countmax="7" chance="33333"/> <!-- Gold Coins -->
-		<item id="7588" countmax="2" chance="2667"/> <!-- SHP -->
-		<item id="7620" countmax="2" chance="1600"/> <!-- MP -->
+		<item id="2152" countmax="7" chance="33333"/> <!-- platinum Coins -->
 		<item id="7590" countmax="2" chance="1333"/> <!-- GMP -->
-		<item id="18304" countmax="10" chance="400"/> <!-- Crystalline Arrows -->
 		<item id="7589" countmax="2" chance="367"/> <!-- SMP -->
-		<item id="8473" chance="200"/> <!-- UHP -->
+		<item id="2789" countmax="2" chance="3000"/> <!-- Brown Mushroom -->
+		<item id="7591" chance="200"/> <!-- GHP -->
 		<item id="7454" chance="400"/> <!-- Glorious Axe -->
-		<item id="7753" chance="300"/> <!-- War Axe -->
-		<item id="2197" chance="328"/> <!-- Stone Skin Amulet -->
-		<item id="2445" chance="411"/> <!-- Crystal Mace -->
 		<item id="2213" chance="298"/> <!-- Dwarven Ring -->
-		<item id="18431" chance="200"/> <!-- Stone Nose -->
-		<item id="18432" chance="400"/> <!-- Crystalline Spikes -->
-		<item id="13757" chance="300"/> <!-- Coal -->
-		<item id="18419" chance="328"/> <!-- Cyan Crystal Fragment -->
 		<item id="18416" chance="411"/> <!-- Green Crystal Splinter -->
 		<item id="10549" chance="298"/> <!-- Ancient Stone -->
 		<item id="7452" chance="328"/> <!-- Spiked Squelcher -->
 		<item id="7437" chance="411"/> <!-- Sapphire Hammer -->
-		<item id="2393" chance="298"/> <!-- Giant Sword -->
+		<item id="5880" chance="410"/> <!-- Iron Ore -->
+		<item id="18417" countmax="2" chance="3000"/> <!-- Brown crystal splinter -->
+		<item id="18436" countmax="10" chance="3000"/> <!-- drill bolts -->
+		<item id="2515" chance="210"/> <!-- guardian shield -->
+		<item id="2528" chance="250"/> <!-- tower shield -->
+		<item id="2150" chance="250"/> <!-- small amethist -->
+		<item id="2149" chance="250"/> <!-- small emerald -->
+		<item id="2208" chance="250"/> <!-- axe ring -->
+		<item id="18420" chance="250"/> <!-- red crystal fragment -->
+		<item id="18415" chance="250"/> <!-- green crystal shard -->
+		<item id="2391" chance="250"/> <!-- war hammer -->
+		<item id="2532" chance="250"/> <!-- ancient shield -->
+		<item id="7413" chance="200"/> <!-- titan axe -->
+		<item id="2475" chance="50"/> <!-- warrior helmet -->
 	</loot>
 </monster>

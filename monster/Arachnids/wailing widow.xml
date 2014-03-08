@@ -58,5 +58,6 @@
 		<item id="2796" chance="1408" /><!-- green mushroom -->
 		<item id="11329" chance="793" /><!-- wailing widow's necklace -->
 		<item id="11323" chance="793" /><!-- zaoan halberd -->
+		<item id="2381" chance="793" /><!-- halberd -->
 	</loot>
 </monster>

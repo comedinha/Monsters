@@ -67,8 +67,8 @@
 		<item id="2148" countmax="100" chance="33400" /><!-- gold coin -->
 		<item id="2148" countmax="100" chance="33400" /><!-- gold coin -->
 		<item id="2185" chance="1550" /><!-- necrotic rod -->
-		<item id="12635" chance="525" /><!-- souleater trophy -->
-		<item id="6300" chance="800" /><!-- death ring -->
-		<item id="5884" chance="600" /><!-- spirit container -->
+		<item id="12635" chance="25" /><!-- souleater trophy -->
+		<item id="6300" chance="300" /><!-- death ring -->
+		<item id="5884" chance="200" /><!-- spirit container -->
 	</loot>
 </monster>

@@ -39,7 +39,7 @@
 		<voice sentence="Baaah"/>
 	</voices>
 	<loot>
-		<item id="2148" countmax="17" chance="30000"/>
+		<item id="2148" countmax="17" chance="30000"/> <!-- gold coin -->
 		<item id="2666" countmax="4" chance="880"/> <!-- Meat -->
 		<item id="2671" countmax="3" chance="880"/> <!-- Ham -->
 	</loot>
