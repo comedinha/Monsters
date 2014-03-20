@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Gaz'haragoth" nameDescription="Gaz'haragoth" race="undead" experience="150000" speed="400" manacost="0">
+<monster name="Gaz'haragoth" nameDescription="a gaz'haragoth" race="undead" experience="1000000" speed="400" manacost="0">
 	<health now="350000" max="350000"/>
 	<look type="591" head="0" body="94" legs="79" feet="79" corpse="22562"/>
 	<targetchange interval="10000" chance="20"/>
@@ -51,28 +51,27 @@
 		</defense>
 	</defenses>
 	<elements>
-		<element firePercent="100"/>
-		<element earthPercent="100"/>
-		<element energyPercent="100"/>
-		<element deathPercent="60"/>
-		<element physicalPercent="40"/>
-		<element icePercent="-25"/>
+		<element physicalPercent="50"/>
+		<element holyPercent="50"/>
+		<element deathPercent="50"/>
+		<element firePercent="50"/>
+		<element energyPercent="50"/>
+		<element icePercent="50"/>
+		<element earthPercent="50"/>
 	</elements>
 	<immunities>
 		<immunity paralyze="1"/>
 		<immunity invisible="1"/>
 	</immunities>
-	<summons maxSummons="3">
+	<summons maxSummons="6">
 		<summon name="Minion of Gaz'haragoth" interval="4000" chance="33"/>
-	</summons>
-	<summons maxSummons="3">
 		<summon name="Nightmare of Gaz'haragoth" interval="4000" chance="33"/>
 	</summons>
 	<voices interval="5000" chance="30">
-		<voice sentence="I AM MORGAROTH, LORD OF THE TRIANGLE... AND YOU ARE LOST!" yell="1"/>
-		<voice sentence="MY SEED IS FEAR AND MY HARVEST ARE YOUR SOULS!" yell="1"/>
-		<voice sentence="THE TRIANGLE OF TERROR WILL RISE!" yell="1"/>
-		<voice sentence="ZATHROTH! LOOK AT THE DESTRUCTION I AM CAUSING IN YOUR NAME!" yell="1"/>
+		<voice sentence="NO ONE WILL ESCAPE ME!" yell="1"/>
+		<voice sentence="I'LL KEEP THE ORDER UP!" yell="1"/>
+		<voice sentence="You puny humans will be my snacks!"/>
+		<voice sentence="I've beaten tougher demons then you even know!"/>
 	</voices>
 	<loot>
 		<item id="2148" countmax="100" chance="100000"/><!-- gold coin -->

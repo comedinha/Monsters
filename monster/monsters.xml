@@ -249,6 +249,8 @@
 	<monster name="Haunter" file="Bosses/haunter.xml"/>
 	<monster name="Rocko" file="Bosses/rocko.xml"/>
 	<monster name="Tremorak" file="Bosses/tremorak.xml"/>
+	<monster name="Gaz'haragoth" file="Bosses/gaz'haragoth.xml"/>
+	<monster name="Mawhawk" file="Bosses/mawhawk.xml"/>
 
 	<!-- Canines -->
 	<monster name="Crystal Wolf" file="Canines/crystal wolf.xml"/>
@@ -321,9 +323,6 @@
 	<monster name="Herald of Gloom" file="Demons/herald of gloom.xml"/>
 	<monster name="Juggernaut" file="Demons/juggernaut.xml"/>
 	<monster name="Kraknaknork's Demon" file="Demons/kraknaknork's demon.xml"/>
-	<monster name="Nightmare Scion" file="Demons/nightmare scion.xml"/>
-	<monster name="Nightmare" file="Demons/nightmare.xml"/>
-	<monster name="Nightstalker" file="Demons/nightstalker.xml"/>
 	<monster name="Plaguesmith" file="Demons/plaguesmith.xml"/>
 	<monster name="Rift Brood" file="Demons/rift brood.xml"/>
 	<monster name="Rift Scythe" file="Demons/rift scythe.xml"/>
@@ -360,11 +359,12 @@
 	<monster name="Demon Outcast" file="Dreamhaunters/demon outcast.xml"/>
 	<monster name="Feversleep" file="Dreamhaunters/feversleep.xml"/>
 	<monster name="Frazzlemaw" file="Dreamhaunters/frazzlemaw.xml"/>
-	<monster name="Gaz'haragoth" file="Dreamhaunters/gaz'haragoth.xml"/>
 	<monster name="Guzzlemaw" file="Dreamhaunters/guzzlemaw.xml"/>
-	<monster name="Mawhawk" file="Dreamhaunters/mawhawk.xml"/>
 	<monster name="Minion of Gaz'haragoth" file="Dreamhaunters/minion of gaz'haragoth.xml"/>
 	<monster name="Nightmare of Gaz'haragoth" file="Dreamhaunters/nightmare of gaz'haragoth.xml"/>
+	<monster name="Nightmare Scion" file="Dreamhaunters/nightmare scion.xml"/>
+	<monster name="Nightmare" file="Dreamhaunters/nightmare.xml"/>
+	<monster name="Nightstalker" file="Dreamhaunters/nightstalker.xml"/>
 	<monster name="Retching Horror" file="Dreamhaunters/retching horror.xml"/>
 	<monster name="Shiversleep" file="Dreamhaunters/shiversleep.xml"/>
 	<monster name="Shock Head" file="Dreamhaunters/shock head.xml"/>
