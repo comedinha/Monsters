@@ -30,14 +30,14 @@
   <defenses armor="85" defense="85">
   </defenses>
 	<elements>
-		<element firePercent="100"/>
-		<element physicalPercent="100"/>
-		<element earthPercent="100"/>
-				<element holyPercent="100"/>
 		<element deathPercent="-1"/>
-		<element energyPercent="100"/>
 	</elements>
 	<immunities>
+		<immunity fire="1"/>
+		<immunity physical="1"/>
+		<immunity earth="1"/>
+		<immunity holy="1"/>
+		<immunity energy="1"/>
 		<immunity outfit="1"/>
 		<immunity drown="1"/>
 		<immunity paralyze="1"/>

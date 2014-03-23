@@ -32,16 +32,16 @@
   <defenses armor="55" defense="55">    
   </defenses>
 	<elements>					
-		<element icePercent="+10"/>
+		<element icePercent="10"/>
 		<element physicalPercent="-10"/>
 		<element energyPercent="-10"/>
 		<element deathPercent="-10"/>
 	</elements>
   <immunities>
-    <immunity fire="100"/>
-    <immunity lifedrain="0"/>
-    <immunity paralyze="100"/>
-    <immunity invisible="100"/>
+    <immunity fire="1"/>
+    <immunity lifedrain="1"/>
+    <immunity paralyze="1"/>
+    <immunity invisible="1"/>
   </immunities>   
 	<voices interval="2000" chance="10">
 		<voice sentence="Grrrrunt"/>

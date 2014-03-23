@@ -33,16 +33,16 @@
 	<elements>		
 		<element energyPercent="1"/>	
 		<element firePercent="-1"/>	
-				<element holyPercent="100"/>	
 		<element deathPercent="-1"/>	
 		<element physicalPercent="-1"/>
 		<element icePercent="-10"/>		
 	</elements>
   <immunities>
-    <immunity earth="100"/>
-    <immunity lifedrain="0"/>
-    <immunity paralyze="100"/>
-    <immunity invisible="100"/>
+	<immunity holy="1"/>
+    <immunity earth="1"/>
+    <immunity lifedrain="1"/>
+    <immunity paralyze="1"/>
+    <immunity invisible="1"/>
   </immunities>
 	<voices interval="5000" chance="10">
 		<voice sentence="Sizzle!"/>
