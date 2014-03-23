@@ -295,13 +295,13 @@
 	<!-- Deeplings -->
 	<monster name="Deepling Brawler" file="Deeplings/deepling brawler.xml"/>
 	<monster name="Deepling Elite" file="Deeplings/deepling elite.xml"/>
-	<monster name="Deepling Guard" file="Deeplings/Deepling Guard.xml"/>
-	<monster name="Deepling Master Librarian" file="Deeplings/Deepling Master Librarian.xml"/>
+	<monster name="Deepling Guard" file="Deeplings/deepling guard.xml"/>
+	<monster name="Deepling Master Librarian" file="Deeplings/deepling master librarian.xml"/>
 	<monster name="Deepling Scout" file="Deeplings/deepling scout.xml"/>
-	<monster name="Deepling Spellsinger" file="Deeplings/Deepling Spellsinger.xml"/>
-	<monster name="Deepling Tyrant" file="Deeplings/Deepling Tyrant.xml"/>
+	<monster name="Deepling Spellsinger" file="Deeplings/deepling spellsinger.xml"/>
+	<monster name="Deepling Tyrant" file="Deeplings/deepling tyrant.xml"/>
 	<monster name="Deepling Warrior" file="Deeplings/deepling warrior.xml"/>
-	<monster name="Deepling worker" file="Deeplings/Deepling Worker.xml"/>
+	<monster name="Deepling worker" file="Deeplings/deepling worker.xml"/>
 	
 	<!-- Demonlord -->
 	<monster name="Orshabaal" file="Demonlord/orshabaal.xml"/>
