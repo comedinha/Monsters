@@ -26,12 +26,12 @@
 	</attacks>
 	<defenses armor="14" defense="20"/>
 	<elements>
-		<element earthPercent="100"/>
-		<element deathPercent="100"/>
 		<element icePercent="22"/>
 		<element holyPercent="-25"/>
 	</elements>
 	<immunities>
+		<immunity earth="1"/>
+		<immunity death="1"/>
 		<immunity lifedrain="1"/>
 		<immunity paralyze="1"/>
 		<immunity invisible="1"/>

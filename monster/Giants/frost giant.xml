@@ -22,9 +22,9 @@
 		<attack name="melee" interval="2000" skill="45" attack="40"/>
 	</attacks>
 	<defenses armor="22" defense="23"/>
-	<elements>
-		<element icePercent="100"/>
-	</elements>
+	<immunities>
+		<immunity ice="1"/>
+	</immunities>
 	<voices interval="2000" chance="5">
 		<voice sentence="Hmm Humansoup"/>
 		<voice sentence="Stand still ya tasy snack!"/>

@@ -38,13 +38,13 @@
 		</defense>
 	</defenses>
 	<elements>
-		<element deathPercent="100"/>
-		<element earthPercent="100"/>
 		<element physicalPercent="15"/>
 		<element firePercent="-10"/>
 		<element holyPercent="-25"/>
 	</elements>
 	<immunities>
+		<immunity death="1"/>
+		<immunity earth="1"/>
 		<immunity lifedrain="1"/>
 		<immunity paralyze="1"/>
 		<immunity invisible="1"/>

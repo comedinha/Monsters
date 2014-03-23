@@ -28,9 +28,9 @@
 	<elements>
 		<element deathPercent="-10"/>
 		<element firePercent="10"/>
-		<element energyPercent="100"/>
 	</elements>
 	<immunities>
+		<immunity energy="1"/>
 		<immunity paralyze="1"/>
 		<immunity invisible="1"/>
 	</immunities>

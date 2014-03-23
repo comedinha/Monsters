@@ -49,12 +49,14 @@
 		</defense>
 	</defenses>
 	<elements>
-		<element earthPercent="100"/>
 		<element holyPercent="20"/>
 		<element firePercent="-15"/>
 		<element deathPercent="-10"/>
 		<element icePercent="-8"/>
 	</elements>
+	<immunities>
+		<immunity earth="1"/>
+	</immunities>
 	<voices interval="5000" chance="10">
 		<voice sentence="grak brrretz!"/>
 		<voice sentence="grow truk grrrrr."/>

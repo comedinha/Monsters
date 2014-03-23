@@ -37,13 +37,13 @@
 		</defense>	
 	</defenses>
 	<elements>
-		<element earthPercent="100"/>
 		<element energyPercent="20"/>
 		<element icePercent="20"/>
 		<element physicalPercent="-10"/>
 		<element firePercent="-10"/>
 	</elements>
 	<immunities>
+		<immunity earth="1"/>
 		<immunity invisible="1"/>
 	</immunities>
 	<summons maxSummons="6">

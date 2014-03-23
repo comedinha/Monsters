@@ -22,7 +22,6 @@
 	</attacks>
 	<defenses armor="10" defense="18"/>
 	<elements>
-		<element earthPercent="100"/>
 		<element physicalPercent="22"/>
 		<element firePercent="20"/>
 		<element energyPercent="13"/>
@@ -30,6 +29,7 @@
 		<element icePercent="-10"/>
 	</elements>
 	<immunities>
+		<immunity earth="1"/>
 		<immunity paralyze="1"/>
 	</immunities>
 	<loot>

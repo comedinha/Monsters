@@ -25,12 +25,12 @@
 	</attacks>
 	<defenses armor="17" defense="14"/>
 	<elements>
-		<element earthPercent="100"/>
 		<element energyPercent="10"/>
 		<element icePercent="5"/>
 		<element firePercent="-10"/>
 	</elements>
 	<immunities>
+		<immunity earth="1"/>
 		<immunity invisible="1"/>
 	</immunities>
 	<voices interval="5000" chance="10">

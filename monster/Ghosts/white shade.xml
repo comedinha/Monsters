@@ -31,9 +31,9 @@
 		<element energyPercent="10"/>
 	</elements>
   <immunities>
-    <immunity earth="100"/>
-    <immunity lifedrain="0"/>
-    <immunity paralyze="0"/>
+    <immunity earth="1"/>
+    <immunity lifedrain="1"/>
+    <immunity paralyze="1"/>
     <immunity invisible="1"/>
   </immunities> 
 	<voices interval="2500" chance="10">

@@ -23,12 +23,14 @@
 	</attacks>
 	<defenses armor="22" defense="23"/>
 	<elements>
-		<element icePercent="100"/>
 		<element firePercent="20"/>
 		<element holyPercent="10"/>
 		<element energyPercent="-10"/>
 		<element deathPercent="-5"/>
 	</elements>
+	<immunities>
+		<immunity ice="1"/>
+	</immunities>
 	<voices interval="2000" chance="5">
 		<voice sentence="Ymirs Mjalle!"/>
 		<voice sentence="No run so much, must stay fat!"/>

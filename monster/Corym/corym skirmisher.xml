@@ -35,8 +35,8 @@
 		<element holyPercent="-10"/>
 	</elements>
 	<immunities>
-		<immunity paralyze="100"/>
-		<immunity invisible="100"/>
+		<immunity paralyze="1"/>
+		<immunity invisible="1"/>
 	</immunities>
 	<voices interval="2500" chance="10">
 		<voice sentence="Squeak! Squeak!"/>

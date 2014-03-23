@@ -32,12 +32,12 @@
 		</defense>
 	</defenses>
 	<elements>
-		<element physicalPercent="100"/>
-		<element deathPercent="100"/>
-		<element earthPercent="100"/>
 		<element holyPercent="-50"/>
 	</elements>
 	<immunities>
+		<immunity physical="1"/>
+		<immunity death="1"/>
+		<immunity earth="1"/>
 		<immunity paralyze="1"/>
 	</immunities>
 	<voices interval="5000" chance="10">

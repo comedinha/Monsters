@@ -30,7 +30,6 @@
 	</attacks>
 	<defenses armor="13" defense="15"/>
 	<elements>
-		<element firePercent="100"/>
 		<element energyPercent="30"/>
 		<element earthPercent="25"/>
 		<element deathPercent="15"/>
@@ -38,6 +37,9 @@
 		<element icePercent="-20"/>
 		<element holyPercent="-10"/>
 	</elements>
+	<immunities>
+		<immunity fire="1"/>
+	</immunities>
 	<voices interval="5000" chance="10">
 		<voice sentence="Hot, eh?"/>
 		<voice sentence="Hell, oh hell!"/>
