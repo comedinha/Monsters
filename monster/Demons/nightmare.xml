@@ -2,7 +2,7 @@
 <monster name="Nightmare" nameDescription="a nightmare" race="blood" experience="2150" speed="240" manacost="0">
 	<health now="2700" max="2700"/>
 	<look type="245" corpse="6340"/>
-	<targetchange interval="2000" chance="10"/>
+	<targetchange interval="4000" chance="10"/>
 	<strategy attack="100" defense="0"/>
 	<flags>
 		<flag summonable="0"/>

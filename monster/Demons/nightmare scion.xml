@@ -2,7 +2,7 @@
 <monster name="Nightmare Scion" nameDescription="a nightmare scion" race="blood" experience="1350" speed="230" manacost="0">
 	<health now="1400" max="1400"/>
 	<look type="321" corpse="9919"/>
-	<targetchange interval="2000" chance="10"/>
+	<targetchange interval="4000" chance="10"/>
 	<strategy attack="100" defense="0"/>
 	<flags>
 		<flag summonable="0"/>
